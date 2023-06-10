@@ -1,0 +1,38 @@
+{
+  "name": "openapi2pdf-cli",
+  "version": "1.0.0",
+  "description": "Generate pdf from open api spec files",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "openapi2pdf-cli":"./index.js"
+  },
+  "keywords": [
+    "openapi",
+    "pdf",
+    "OpenAPIOpenAPI",
+    "Specification",
+    "Swagger",
+    "JSON-Schema",
+    "API",
+    "REST",
+    "documentation",
+    "uipdfswagger",
+    "pdfopenapi"
+  ],
+  "author": "Ravi Kumar Singh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "commander": "^10.0.1",
+    "html-to-pdfmake": "^2.4.22",
+    "jsdom": "^22.1.0",
+    "marked": "^0.8.2",
+    "pdfmake": "^0.1.65",
+    "swagger-client": "^3.10.0",
+    "swagger2openapi": "^5.4.0"
+  }
+}
