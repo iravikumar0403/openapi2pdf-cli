@@ -23,6 +23,11 @@
     "uipdfswagger",
     "pdfopenapi"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iravikumar0403/openapi2pdf-cli"
+  },
+  "homepage": "https://github.com/iravikumar0403/openapi2pdf-cli#openapi2pdf-cli",
   "author": "Ravi Kumar Singh",
   "license": "ISC",
   "dependencies": {
