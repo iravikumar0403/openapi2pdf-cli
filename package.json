@@ -1,6 +1,6 @@
 {
   "name": "openapi2pdf-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate pdf from open api spec files",
   "main": "index.js",
   "type": "module",
