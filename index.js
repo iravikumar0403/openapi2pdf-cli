@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import fs from 'node:fs';
 import createPdf from './src/pdf-gen.js';
 import {program} from 'commander'
